@@ -1,0 +1,24 @@
+---------------
+Card Stack 1
+---------------
+Your agent: An arms dealer
+Your aspect: Turbo-charged
+Your engine: Wants to upgrade the tech of
+Your anchor: A blaster
+Your conflict: But it will make them a fugitive
+---------------
+Card Stack 2
+---------------
+Your agent: An escaped experiment
+Your aspect: Overloaded
+Your engine: Wants to upgrade the tech of
+Your anchor: An explosive
+Your conflict: But it will cause a rift amongst their allies
+---------------
+Card Stack 3
+---------------
+Your agent: An engineer
+Your aspect: Alien
+Your engine: Wants to explore a new planet with the help of
+Your anchor: An organism
+Your conflict: But the blowback will fall on their closest friend
