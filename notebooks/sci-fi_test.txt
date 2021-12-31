@@ -1,0 +1,32 @@
+---------------
+Card Stack 1
+---------------
+Your aspect: Zero-gravity
+Your agent: Telekinetic
+Your engine: Wants to make a power grab with
+Your anchor: An organism
+Your conflict: But the blowback will fall on their closest friend
+---------------
+Card Stack 2
+---------------
+Your aspect: Despotic
+Your agent: Streamer
+Your engine: Wants to invent (or discover)
+Your anchor: A jump point
+Your conflict: But it will make their timeline dangerously unstable
+---------------
+Card Stack 3
+---------------
+Your aspect: Dark
+Your agent: Technician
+Your engine: Wants to uncover a government secret involving
+Your anchor: A spaceship
+Your conflict: But it will mean trusting someone who betrayed them
+---------------
+Card Stack 4
+---------------
+Your aspect: Untraceable
+Your agent: Bodyguard
+Your engine: Wants to pull of a heist with/on/of
+Your anchor: A hidden compartment
+Your conflict: But an innocent person will be executed
