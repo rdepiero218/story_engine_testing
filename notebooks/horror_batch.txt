@@ -1,0 +1,24 @@
+---------------
+Card Stack 1
+---------------
+Your aspect: Telekinetic
+Your agent: Blackmailer
+Your engine: Wants to win a race involving
+Your anchor: A biome
+Your conflict: But it will make their timeline dangerously unstable
+---------------
+Card Stack 2
+---------------
+Your aspect: Gifted
+Your agent: Bodyguard
+Your engine: Wants to upgrade the tech of
+Your anchor: A hard drive
+Your conflict: But it will unite their enemies
+---------------
+Card Stack 3
+---------------
+Your aspect: Cutting-edge
+Your agent: Robot
+Your engine: Wants to communicate with an alien species through
+Your anchor: A simulation
+Your conflict: But they will never be able to travel off-world again

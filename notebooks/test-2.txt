@@ -1,0 +1,40 @@
+---------------
+Card Stack 1
+---------------
+Your agent: Arms Dealer
+Your aspect: Tarnished
+Your engine: Wants to restore the balance of power with
+Your anchor: Capitol Hill
+Your conflict: But history will see them as a villain
+---------------
+Card Stack 2
+---------------
+Your agent: Informant
+Your aspect: Deputized
+Your engine: Wants to restore the balance of power with
+Your anchor: A list of names
+Your conflict: But history will see them as a villain
+---------------
+Card Stack 3
+---------------
+Your agent: Company Spokesman
+Your aspect: Researched
+Your engine: Wants to escape from/with
+Your anchor: A military base
+Your conflict: But they will discover a horrifying truth about their allies
+---------------
+Card Stack 4
+---------------
+Your agent: Informant
+Your aspect: Government-Funded
+Your engine: Wants to tip the balance of power with
+Your anchor: The White House
+Your conflict: But it will end their career
+---------------
+Card Stack 5
+---------------
+Your agent: Military Contractor
+Your aspect:  State-Funded
+Your engine: Wants to stop a destructive agenda with
+Your anchor: An election
+Your conflict: But history will see them as a failure

@@ -1,0 +1,32 @@
+---------------
+Card Stack 1
+---------------
+Your aspect: Violent
+Your agent: Clown
+Your engine: Wants to catch a serial killer whose calling card is
+Your anchor: An infection
+Your conflict: But someone they could have saved will die
+---------------
+Card Stack 2
+---------------
+Your aspect: Inherited
+Your agent: Child
+Your engine: Wants to uphold a family legacy involving
+Your anchor: A backwood
+Your conflict: But their darkest desire will be revealed
+---------------
+Card Stack 3
+---------------
+Your aspect: Shambling
+Your agent: Sadist
+Your engine: Wants to frame (or implicate a rival using)
+Your anchor: A cabin
+Your conflict: But it will drive them to the brink of madness
+---------------
+Card Stack 4
+---------------
+Your aspect: Muttering
+Your agent: Serial killer
+Your engine: Wants to understand their terrible visions of
+Your anchor: An antidote
+Your conflict: But they will develop a dangerous addiction

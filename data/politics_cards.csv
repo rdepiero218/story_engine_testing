@@ -1,32 +1,32 @@
-agent,aspect,engine,anchor,conflict
-Governor,Government-Funded,Wants to become the dominant party with,Washington DC,But it will cost them the election
-Mayor,Deputized,Wants to tip the balance of power with,Big City,But history will see them as a villain
-Insider,Partisan,Wants to stop a destructive agenda with,A rival nation,But it will end their career
-Analyst,Rigged,Wants to blow the whistle on/with,A dossier,But it will undermine their own political agenda
-Propagandist,Poorly Funded,Wants to escape from/with,A top secret program,But they will discover a horrifying truth about their allies
-Company Spokesman,Researched,Wants to root out corruption with/on,A CIA black site,But bureaucracy will hold them back
-Black Ops Agent,Highly political,Wants to bribe with/about,An innocent bystander,But they will fail someone relying on them
-Fixer,Buried,Wants to relinquish control of their party with,Capitol Hill,But the opposing party will come into power
-Judge, State-Funded,Wants to restore the balance of power with,Small Town,But history will see them as a failure
-Warlord, Commissioned,Wants to push an aggressive agenda with,An allied nation,But it will end the career of a trusted ally
-Senator,Apolitical, Wants to protect a policy about/with,A list of names,But it will destroy their belief in their own political party
-Selectman,Compromised,Wants to expose a coverup about,A Senate investigation,But they will prove their enemies were right
-Whistleblower,Well-Funded,Wants to pass an bill on/with,A secret prison,But the system will treat them unjustly
-Handler,Hired,Is being bribed with/about,A puppet master,But they will make a steep political compromise
-Lobbyist,Non-partisan,,The White House,
-PR Consultant,Tarnished,,Rural Region,
-FBI Agent,,,An allied leader,
-Military Contractor,,,Key information,
-Lawyer,,,A vaccine trial,
-Arms Dealer,,,An embassy,
-President,,,A polititian,
-Alderman,,,The Pentagon,
-Informant,,,Key Shipping Port,
-Researcher,,,A rival leader,
-Union Leader,,,A terrible secret,
-Aid,,,An election,
-CIA Agent,,,A military base,
-Dealmaker,,,A reckless agent,
+agent,engine,anchor,conflict,aspect
+Governor,Wants to become the dominant party with,Washington DC,But it will cost them the election,Government-Funded
+Mayor,Wants to tip the balance of power with,Big City,But history will see them as a villain,Deputized
+Insider,Wants to stop a destructive agenda with,A rival nation,But it will end their career,Partisan
+Analyst,Wants to blow the whistle on/with,A dossier,But it will undermine their own political agenda,Rigged
+Propagandist,Wants to escape from/with,A top secret program,But they will discover a horrifying truth about their allies,Poorly Funded
+Company Spokesman,Wants to root out corruption with/on,A CIA black site,But bureaucracy will hold them back,Researched
+Black Ops Agent,Wants to bribe with/about,An innocent bystander,But they will fail someone relying on them,Highly political
+Fixer,Wants to relinquish control of their party with,Capitol Hill,But the opposing party will come into power,Buried
+Judge,Wants to restore the balance of power with,Small Town,But history will see them as a failure, State-Funded
+Warlord,Wants to push an aggressive agenda with,An allied nation,But it will end the career of a trusted ally, Commissioned
+Senator, Wants to protect a policy about/with,A list of names,But it will destroy their belief in their own political party,Apolitical
+Selectman,Wants to expose a coverup about,A Senate investigation,But they will prove their enemies were right,Compromised
+Whistleblower,Wants to pass an bill on/with,A secret prison,But the system will treat them unjustly,Well-Funded
+Handler,Is being bribed with/about,A puppet master,But they will make a steep political compromise,Hired
+Lobbyist,,The White House,,Non-partisan
+PR Consultant,,Rural Region,,Tarnished
+FBI Agent,,An allied leader,,
+Military Contractor,,Key information,,
+Lawyer,,A vaccine trial,,
+Arms Dealer,,An embassy,,
+President,,A polititian,,
+Alderman,,The Pentagon,,
+Informant,,Key Shipping Port,,
+Researcher,,A rival leader,,
+Union Leader,,A terrible secret,,
+Aid,,An election,,
+CIA Agent,,A military base,,
+Dealmaker,,A reckless agent,,
 Public Defender,,,,
 Veteran,,,,
 Congressman,,,,
