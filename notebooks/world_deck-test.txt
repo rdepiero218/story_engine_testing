@@ -1,0 +1,27 @@
+---------------
+Card Stack 1
+---------------
+Your region: River
+Your landmark: Rock
+Your namesake: of smoke
+Your attribute: foragers
+Your origin: abandoned when mineral deposit(s) ran out
+Your advent: they are under siege by a foreign power: an army, bombardment, or propaganda war
+---------------
+Card Stack 2
+---------------
+Your region: City
+Your landmark: Settlement
+Your namesake: that waits
+Your attribute: no written alphabet
+Your origin: created by the meeting of two cultures
+Your advent: the sighting of a rare creature is making headlines: it's believed to be magical, mythical, or extinct
+---------------
+Card Stack 3
+---------------
+Your region: Desert
+Your landmark: Trail
+Your namesake: towering
+Your attribute: known for auditory phenomenon
+Your origin: shaped by landslide(s)
+Your advent: the sighting of a rare creature is making headlines: it's believed to be magical, mythical, or extinct
